@@ -7,7 +7,7 @@
  <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r0'>
 <td height=18 class=x21 width=147 style='height:14.15pt;width:110.25pt;' >培养类别</td>
 <td width=100 style='width:72pt;' >课程属性</td>
-<td class=x21 width=73 style='width:54.75pt;' >表内编号</td>
+<td class=x21 width=100 style='width:54.75pt;' >表内编号</td>
 <td width=229 style='width:171.75pt;' >课程链接</td>
  </tr>
  <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r1'>
