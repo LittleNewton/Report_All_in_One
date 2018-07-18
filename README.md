@@ -14,7 +14,7 @@
 <td height=18 class=x23 width=180 style='height:14.15pt;width:180pt;' >培养类别</td>
 <td class=x23 width=114 style='width:85.5pt;' >课程属性</td>
 <td class=x23 width=114 style='width:85.5pt;' >表内编号</td>
-<td class=x23 width=234 style='width:175.5pt;' >课程链接</td>
+<td class=x23 width=250 style='width:250pt;' >课程链接</td>
  </tr>
  <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r1'>
 <td rowspan=2 height=37 class=x26 style='height:28.3pt;' >公共必修</td>
