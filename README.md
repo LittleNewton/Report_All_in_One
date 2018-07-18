@@ -4,45 +4,147 @@
 
 根据[2015级人才培养方案](https://github.com/LittleNewton/Undergraduate_Course)制定的要求，学院开设了如下课程。
 
-- Part 1 (学科基础 && 纯理论)
-    1. 数学分析(1~3)
-    2. 高等代数(1~2)
-    3. 解析几何
-    4. 常微分方程
-    5. 概率统计
-
-- Part 2 (专业选修 && 纯理论 && 有笔记)
-    6. [近世代数](https://github.com/LittleNewton/NOTES_Modern_Algebra)
-    7. [编译原理](https://github.com/LittleNewton/NOTES_Compile_Principles)
-    8. 分形与小波
-
-- Part 3 (学术训练 + 综合实践)
-    9. [数学分析习作(1~3)](https://github.com/LittleNewton/Mathematical_Analysis_Paper)
-    10. [毕业论文](https://github.com/LittleNewton/Thesis_for_Graduation_Paper)
-    11. [科研规范训练](https://github.com/LittleNewton/Academic_Training_Paper)
-- Part 4 (学科基础 && 有实验)
-    12. [数学建模 + 实验](https://github.com/LittleNewton/Mathematical_Modeling_Report)
-- Part 5 (专业必修 && 有实验)
-    13. [数据结构与算法 + 实验](https://github.com/LittleNewton/Data_Structure_and_Algorithm_Report)
-    14. [信息论基础 + 实验](https://github.com/LittleNewton/Elements_of_Information_Theory_Report)
-    15. [数值计算方法 + 实验](https://github.com/LittleNewton/Numerical_Calculation_Report)
-    16. [离散数学 + 实验](https://github.com/LittleNewton/Discrete_Mathematics_Report)
-    17. [高级语言程序设计 + 实验](https://github.com/LittleNewton/C_Program_Design_Report)
-    18. [操作系统 + 实验](https://github.com/LittleNewton/Operating_System_Report)
-
-- Part 6 (专业选修 && 有实验)
-
-    19. [运筹学通论 + 实验](https://github.com/LittleNewton/Operations_Research_Report)
-    20. [数据库系统原理 + 实验](https://github.com/LittleNewton/Database_System_Introduction_Report)
-    21. [数据挖掘与决策支持技术 + 实验](https://github.com/LittleNewton/Data_Mining_Report)
-    22. [现代密码学 + 实验](https://github.com/LittleNewton/Modern_Cryptography_Report)
-    23. [计算机网络 + 实验](https://github.com/LittleNewton/Computer_Network_Report)
-    24. [微分方程数值解 + 实验](https://github.com/LittleNewton/NumSln_of_DiffEq_Report)
-    25. [算法图论 + 实验](https://github.com/LittleNewton/Algorithm_of_Graph_Theory_Report)
-
-- Part 7 (公共必修 && 有实验)
-    26. [计算机基础(1) + 实验]()
-    27. [计算机基础(2) + 实验]()
+<table border=0 cellpadding=0 cellspacing=0 width=627 style='border-collapse: 
+ collapse;table-layout:fixed;width:470pt'>
+ <col width=165 style='mso-width-source:userset;width:123pt'>
+ <col width=114 style='mso-width-source:userset;width:85pt'>
+ <col class=x22 width=114 style='mso-width-source:userset;width:85pt'>
+ <col width=234 style='mso-width-source:userset;width:175pt'>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r0'>
+<td height=18 class=x23 width=165 style='height:14.15pt;width:123.75pt;' >培养类别</td>
+<td class=x23 width=114 style='width:85.5pt;' >课程属性</td>
+<td class=x23 width=114 style='width:85.5pt;' >表内编号</td>
+<td class=x23 width=234 style='width:175.5pt;' >课程链接</td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r1'>
+<td rowspan=2 height=37 class=x26 style='height:28.3pt;' >公共必修</td>
+<td rowspan=2 height=37 class=x26 style='height:28.3pt;' >实验</td>
+<td class=x23>1</td>
+<td class=x25><a href="https://github.com/LittleNewton/Computer_Foundation_Report" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>计算机基础(1) + 实验</span></a></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r2'>
+<td class=x23>2</td>
+<td class=x25><a href="https://github.com/LittleNewton/C_Program_Design_Report" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>计算机基础(2) + 实验</span></a></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r3'>
+<td rowspan=6 height=113 class=x26 style='height:84.9pt;' >学科基础</td>
+<td rowspan=5 height=94 class=x26 style='height:70.75pt;' >理论</td>
+<td class=x24>3</td>
+<td class=x25><a href="https://github.com/LittleNewton/Mathematical_Analysis_NOTES" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>数学分析(1~3)</span></a></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r4'>
+<td class=x24>4</td>
+<td class=x25><a href="https://github.com/LittleNewton/Advanced_Algebra_NOTES" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>高等代数(1~2)</span></a></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r5'>
+<td class=x24>5</td>
+<td class=x25><a href="https://github.com/LittleNewton/Analytic_Geometry_NOTES" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>解析几何</span></a></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r6'>
+<td class=x24>6</td>
+<td class=x25><a href="https://github.com/LittleNewton/Ordinary_Differential_Equation_NOTES" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>常微分方程</span></a></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r7'>
+<td class=x24>7</td>
+<td class=x25><a href="https://github.com/LittleNewton/Probability_Theory_and_Mathematical_Statistics_NOTES" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>概率统计</span></a></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r8'>
+<td class=x24>实验</td>
+<td class=x24>8</td>
+<td class=x25><a href="https://github.com/LittleNewton/Mathematical_Modeling_Report" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>数学建模 +实验</span></a></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r9'>
+<td rowspan=6 height=113 class=x26 style='height:84.9pt;' >专业必修</td>
+<td rowspan=6 height=113 class=x26 style='height:84.9pt;' >实验</td>
+<td class=x24>9</td>
+<td class=x25><a href="https://github.com/LittleNewton/Data_Structure_and_Algorithm_Report" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>数据结构与算法 + 实验</span></a></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r10'>
+<td class=x24>10</td>
+<td class=x25><a href="https://github.com/LittleNewton/Elements_of_Information_Theory_Report" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>信息论基础 + 实验</span></a></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r11'>
+<td class=x24>11</td>
+<td class=x25><a href="https://github.com/LittleNewton/Numerical_Calculation_Report" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>数值计算方法 + 实验</span></a></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r12'>
+<td class=x24>12</td>
+<td class=x25><a href="https://github.com/LittleNewton/Discrete_Mathematics_Report" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>离散数学 + 实验</span></a></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r13'>
+<td class=x24>13</td>
+<td class=x25><a href="https://github.com/LittleNewton/C_Program_Design_Report" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>高级语言程序设计 + 实验</span></a></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r14'>
+<td class=x24>14</td>
+<td class=x25><a href="https://github.com/LittleNewton/Operating_System_Report" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>操作系统 + 实验</span></a></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r15'>
+<td rowspan=10 height=188 class=x26 style='height:141.5pt;' >专业选修</td>
+<td rowspan=3 height=56 class=x26 style='height:42.45pt;' >理论</td>
+<td class=x24>15</td>
+<td class=x25><a href="https://github.com/LittleNewton/Modern_Algebra_NOTES" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>近世代数 </span></a></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r16'>
+<td class=x24>16</td>
+<td class=x25><a href="https://github.com/LittleNewton/Compile_Principles_NOTES" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>编译原理</span></a></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r17'>
+<td class=x24>17</td>
+<td class=x25><a href="baidu.com" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>分形与小波</span></a></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r18'>
+<td rowspan=7 height=132 class=x26 style='height:99.05pt;' >实验</td>
+<td class=x24>18</td>
+<td class=x25><a href="https://github.com/LittleNewton/Operations_Research_Report/" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>运筹学通论 + 实验</span></a></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r19'>
+<td class=x24>19</td>
+<td class=x25><a href="https://github.com/LittleNewton/Database_System_Introduction_Report" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>数据库系统原理 + 实验</span></a></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r20'>
+<td class=x24>20</td>
+<td class=x25><a href="https://github.com/LittleNewton/Data_Mining_Report" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>数据挖掘与决策支持技术 + 实验</span></a></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r21'>
+<td class=x24>21</td>
+<td class=x25><a href="https://github.com/LittleNewton/Modern_Cryptography_Report" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>现代密码学 + 实验</span></a></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r22'>
+<td class=x24>22</td>
+<td class=x25><a href="https://github.com/LittleNewton/Computer_Network_Report" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>计算机网络 + 实验</span></a></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r23'>
+<td class=x24>23</td>
+<td class=x25><a href="https://github.com/LittleNewton/NumSln_of_DiffEq_Report" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>微分方程数值解 + 实验</span></a></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r24'>
+<td class=x24>24</td>
+<td class=x25><a href="https://github.com/LittleNewton/Algorithm_of_Graph_Theory_Report" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>算法图论 + 实验</span></a></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r25'>
+<td rowspan=3 height=56 class=x26 style='height:42.45pt;' >学术训练与综合实践</td>
+<td rowspan=3 height=56 class=x26 style='height:42.45pt;' >论文</td>
+<td class=x24>25</td>
+<td class=x25><a href="https://github.com/LittleNewton/Mathematical_Analysis_Paper" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>数学分析习作(1~3)</span></a></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r26'>
+<td class=x24>26</td>
+<td class=x25><a href="https://github.com/LittleNewton/Academic_Training_Paper" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>科研规范训练</span></a></td>
+ </tr>
+ <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r27'>
+<td class=x24>27</td>
+<td class=x25><a href="https://github.com/LittleNewton/Thesis_for_Graduation_Paper" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"SimSun";'>毕业论文</span></a></td>
+ </tr>
+<![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=165 style='width:123.75pt'></td>
+  <td width=114 style='width:85.5pt'></td>
+  <td width=114 style='width:85.5pt'></td>
+  <td width=234 style='width:175.5pt'></td>
+ </tr>
+ <![endif]>
+</table>
 
 ## 2. 免责声明
 
