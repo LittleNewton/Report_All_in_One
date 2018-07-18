@@ -11,7 +11,7 @@
  <col class=x22 width=114 style='mso-width-source:userset;width:85pt'>
  <col width=234 style='mso-width-source:userset;width:175pt'>
  <tr height=18 style='mso-height-source:userset;height:14.15pt' id='r0'>
-<td height=18 class=x23 width=165 style='height:14.15pt;width:123.75pt;' >培养类别</td>
+<td height=18 class=x23 width=180 style='height:14.15pt;width:180pt;' >培养类别</td>
 <td class=x23 width=114 style='width:85.5pt;' >课程属性</td>
 <td class=x23 width=114 style='width:85.5pt;' >表内编号</td>
 <td class=x23 width=234 style='width:175.5pt;' >课程链接</td>
