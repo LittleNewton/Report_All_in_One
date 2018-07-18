@@ -4,8 +4,6 @@
 
 根据[2015级人才培养方案](https://github.com/LittleNewton/Undergraduate_Course)制定的要求，学院开设了如下课程。
 
-### Part 1 纯理论课
-
 - Part 1 (学科基础 && 纯理论)
     1. 数学分析(1~3)
     2. 高等代数(1~2)
@@ -19,17 +17,12 @@
     8. 分形与小波
 
 - Part 3 (学术训练 + 综合实践)
-
     9. [数学分析习作(1~3)](https://github.com/LittleNewton/Mathematical_Analysis_Paper)
     10. [毕业论文](https://github.com/LittleNewton/Thesis_for_Graduation_Paper)
     11. [科研规范训练](https://github.com/LittleNewton/Academic_Training_Paper)
-
 - Part 4 (学科基础 && 有实验)
-
     12. [数学建模 + 实验](https://github.com/LittleNewton/Mathematical_Modeling_Report)
-
 - Part 5 (专业必修 && 有实验)
-
     13. [数据结构与算法 + 实验](https://github.com/LittleNewton/Data_Structure_and_Algorithm_Report)
     14. [信息论基础 + 实验](https://github.com/LittleNewton/Elements_of_Information_Theory_Report)
     15. [数值计算方法 + 实验](https://github.com/LittleNewton/Numerical_Calculation_Report)
