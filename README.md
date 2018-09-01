@@ -1,6 +1,8 @@
 # 云南大学-数学与统计学院-信息与计算科学-实验报告汇总
 
-## 1. 库地址
+Experimental Report all in one, School of Mathematics and Statistics, Yunnan University
+
+## 1. Library address
 
 根据[2015级人才培养方案](https://github.com/LittleNewton/Undergraduate_Course)制定的要求，学院开设了如下课程。
 
@@ -155,12 +157,29 @@
  <![endif]>
 </table>
 
-## 2. 免责声明
+## 2. Disclaimer
 
-此库所指向的库，仅仅为满足我本人备份与托管文件使用。如果要引用我库中的文件并且要避免被认定为抄袭，可以把引用说明放在参考文献里。教学计划一直在改革，但是核心的内容在革命性技术出现之前是不变的。本套开源库不对后续革新做刻意调整。参考请谨慎。
+The library pointed to by this library is only used to satisfy my own backup and hosted files. If you want to reference a file in my library and want to avoid being identified as plagiarism, you can put the citation description in the reference. The teaching plan has been reforming, but the core content is unchanged until the emergence of revolutionary technology. This set of open source libraries does not deliberately adjust for subsequent innovations. Please be careful.
 
 **参考格式**
 
 ```
 [1] 2015级学长的实验报告 https://github.com/LittleNewton/any_report_lib
 ```
+
+## 3. User's Guidance
+
+All the libraries pointed to by these links are document-oriented, so the folder naming format does not completely follow the general open source style, and there is no `docs/` folder to store the introduction documents. 
+
+Files contained in folders outside `word/` are all elements for creating `.docx` files, such as
+
+``` txt
+word/           stores the .docx files, this is the most important folder
+src/            stores source code
+figure/         stores screenshots and schematics
+paper/          stores papers related to this course
+pdf/            stores .pdf documents exportd from .docx
+data/           stores the data may be needed in these experiments
+```
+
+All binary files should be reduced as much as possible for git is not suitable for controling them.
