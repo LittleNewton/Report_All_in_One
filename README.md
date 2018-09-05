@@ -145,7 +145,7 @@ Experimental Report all in one, School of Mathematics and Statistics, Yunnan Uni
  </tr>
  <tr height=18 style='mso-height-source:userset;height:13.9pt' id='r29'>
 <td class=x26>29</td>
-<td class=x24><a href="https://github.com/LittleNewton/Thesis_for_Graduation_Paper" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"等线";'>毕业论文</span></a></td>
+<td class=x24><a href="https://github.com/LittleNewton/Thesis_for_Graduation" target="_parent"><span style='font-size:11pt;color:#0563C1;font-weight:400;text-decoration: underline;text-line-through:none;text-underline-style:single;font-family:"等线";'>毕业论文</span></a></td>
  </tr>
 <![if supportMisalignedColumns]>
  <tr height=0 style='display:none'>
